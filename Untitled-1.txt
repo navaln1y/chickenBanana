@@ -1,0 +1,6 @@
+  customer_name = input("ВВедите имя клиента: ")
+  car_brand = input("Введите марку автомобиля: ")
+rent_price_per_day = float(input("Введите стоимость аренды за сутки "))
+days_count = int(input("Введите количество суток аренды "))
+extra_servise_price = float(input("Введите стоимость одной дополнительной услуги "))
+extra_service_count = int(input("Введите количество дополнительных услуг "))
